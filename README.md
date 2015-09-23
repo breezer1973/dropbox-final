@@ -3,7 +3,7 @@ Week 1 homework for Tony Stewart
 Dropbox Demo
 (Sample of your weekly project submission README)
 
-This is an Android demo application for displaying the latest box office movies using the RottenTomatoes API. See the RottenTomatoes Networking Tutorial on our cliffnotes for a step-by-step tutorial.
+Sorry I left the rottentomatoes reference - this is the homework for the dropbox demo.
 
 Time spent: 10+ hours spent in total
 
